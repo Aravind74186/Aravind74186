@@ -17,47 +17,7 @@
 
 ---
 
-## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-```python
-class AravindSiddharthan:
-    def __init__(self):
-        self.name        = "Aravind Siddharthan"
-        self.location    = "Chennai, Tamil Nadu, India 🇮🇳"
-        self.degree      = "BCA — Alpha Arts and Science College (2022–2025)"
-        self.role        = "Full Stack Developer"
-
-        self.stack = [
-            "Python", "Django", "FastAPI",
-            "React.js", "Node.js", "Express.js",
-            "PostgreSQL", "Supabase", "MySQL"
-        ]
-
-        self.ai_toolkit = [
-            "Anthropic API", "Claude AI",
-            "Model Context Protocol (MCP)",
-            "Claude Code", "Gemini API",
-            "Hugging Face"
-        ]
-
-        self.currently_learning = [
-            "Data Structures & Algorithms (Python)",
-            "Advanced AI Agent Architectures",
-            "Cloud Deployment (Railway & Vercel)"
-        ]
-
-        self.fun_fact = "I'm Anthropic-certified in 4 areas 🏅"
-
-    def motto(self):
-        return "Build with AI. Ship to production. Repeat. 🚀"
-
-me = AravindSiddharthan()
-print(me.motto())
-```
-
-<br clear="right"/>
 
 ---
 
@@ -101,18 +61,7 @@ print(me.motto())
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/Aravind74186">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aravind74186&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
-  </a>
-  <a href="https://github.com/Aravind74186">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravind74186&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
-  </a>
-</div>
-
----
 
 ## 🔥 Streak Stats
 
@@ -130,13 +79,6 @@ print(me.motto())
 
 ---
 
-## 🏆 Trophy Wall
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aravind74186&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
-</p>
-
----
 
 ## 💼 Work Experience
 
@@ -194,19 +136,6 @@ print(me.motto())
 
 ---
 
-## 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Year | 
-|--------|-------------|------|
-| 🎓 Bachelor of Computer Applications (BCA) | Alpha Arts and Science College, Chennai | 2022 – 2025 |
-| 📘 Higher Secondary Education (12th) | Adhiyamaan Govt Boys Higher Secondary School | 2021 – 2022 |
-| 📗 Secondary Education (10th) | Adhiyamaan Govt Boys Higher Secondary School | 2020 – 2021 |
-
-</div>
-
----
 
 ## 🧱 Currently Learning
 
